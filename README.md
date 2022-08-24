@@ -8,7 +8,7 @@
 
 ## Live Demo
 
-- [Live Demo](https://portfolio-react-alearigth.netlify.app)
+- [Live Demo](https://alearigth.github.io/music-foxbel/)
 
 
 # Getting Started
