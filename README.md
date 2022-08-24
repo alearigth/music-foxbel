@@ -1,5 +1,5 @@
 # Personal-Portfolio
-> This is a music app called foxbel - music implemented in vite using the react library
+> This is a music app called foxbel - music, implemented in vite using the react library
 ## Built With
 
 - React
@@ -27,10 +27,10 @@
 
 - Clone this [repository] 
 - ```
-  git clone https://github.com/alearigth/portfolio-react-alearigth.git
+  git clone https://github.com/alearigth/music-foxbel.git
   ```
 
-- Navigate to `cd portfolio---react`  directory.
+- Navigate to `cd music-foxbel`  directory.
 
 - To install all the app dependencies on the command line run
 - ```
